@@ -8,6 +8,9 @@ QueryVerse: A Quora-inspired Q&amp;amp;A platform clone. Share knowledge, ask qu
 
 
 ----------Installation----------
+
+=====> Password for zip file: queryverse <=====
+
 1. Download and Install XAMPP: (Requires specific version xampp-windows-x64-7.4.3-0-VC15)
 If you haven't already, download and install XAMPP from the official website: XAMPP. Follow the installation instructions for your operating system.
 Direct link: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.3/xampp-windows-x64-7.4.3-0-VC15-installer.exe/download
